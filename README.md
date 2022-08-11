@@ -2,11 +2,10 @@
 
 Fractal tree(Fibonacci tree) implementation in Unreal Engine 5 Niagara(GPU Simulation Stage).
 
-Demo : https://www.youtube.com/watch?v=mlwkOcX-4uI
+Demo : https://www.youtube.com/watch?v=y9MHF38uKXs
 
-There are still some weak parts in this implementation and it is not optimized.
 
-<img width="631" alt="image" src="https://user-images.githubusercontent.com/26865534/162594367-1a0a3c8a-60d3-4937-85ba-c62aab04e638.png">
+![Untitled (1)](https://user-images.githubusercontent.com/26865534/184120780-924b7314-e59a-48a3-90ae-bd7a31b12665.png)
 
 
 ## References
